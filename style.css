@@ -1,0 +1,19 @@
+
+.TITO{text-align: center;
+         color: rgb(36, 2, 2);
+
+}
+
+.TITO{border-color: blueviolet;
+    border-style: double;
+    border-color: rgb(15, 40, 94);
+    margin-left: 30%;
+    margin-right: 20%;
+}
+.TITO{font-size: 150%;
+}
+
+body {
+    background-color: rgb(107, 182, 243);
+    text-align: center;
+}
